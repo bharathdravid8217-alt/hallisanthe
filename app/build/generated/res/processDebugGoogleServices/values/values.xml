@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://halli-santhe-digital-5b3ed-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">351558315790</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_rTW4sVTDJ-C6zrFWZyNpFh53bKambTo</string>
+    <string name="google_app_id" translatable="false">1:351558315790:android:a1dbbbeb2a0e7d9598715f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_rTW4sVTDJ-C6zrFWZyNpFh53bKambTo</string>
+    <string name="google_storage_bucket" translatable="false">halli-santhe-digital-5b3ed.firebasestorage.app</string>
+    <string name="project_id" translatable="false">halli-santhe-digital-5b3ed</string>
+</resources>

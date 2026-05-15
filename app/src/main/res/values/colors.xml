@@ -1,0 +1,11 @@
+<resources>
+    <color name="primary_orange">#FF6B35</color>
+    <color name="primary_orange_dark">#E85D04</color>
+    <color name="secondary_yellow">#FFB300</color>
+    <color name="accent_green">#2D9A4E</color>
+    <color name="accent_green_dark">#1B6B35</color>
+    <color name="background_cream">#FFF8F0</color>
+    <color name="text_brown">#3E1F00</color>
+    <color name="text_muted">#6F6258</color>
+    <color name="white">#FFFFFF</color>
+</resources>

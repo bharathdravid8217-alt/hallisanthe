@@ -1,0 +1,70 @@
+com.hallisanthe.app-core-runtime-2.2.0-0 C:\Users\User\.gradle\caches\8.9\transforms\09e36c835b0cb881d5217a265e229051\transformed\core-runtime-2.2.0\res
+com.hallisanthe.app-material-1.12.0-1 C:\Users\User\.gradle\caches\8.9\transforms\1763cb86a5a4edf72444341f17e6e73b\transformed\material-1.12.0\res
+com.hallisanthe.app-browser-1.4.0-2 C:\Users\User\.gradle\caches\8.9\transforms\189166ddc53f845ee333cc226eab433f\transformed\browser-1.4.0\res
+com.hallisanthe.app-lifecycle-livedata-ktx-2.8.4-3 C:\Users\User\.gradle\caches\8.9\transforms\1924af07a642952a3e8f86cf961066ec\transformed\lifecycle-livedata-ktx-2.8.4\res
+com.hallisanthe.app-navigation-common-2.7.7-4 C:\Users\User\.gradle\caches\8.9\transforms\1ae45e068e55641f0149af93b4b9ccfe\transformed\navigation-common-2.7.7\res
+com.hallisanthe.app-emoji2-1.3.0-5 C:\Users\User\.gradle\caches\8.9\transforms\1fd37e474960e869af4917e468ccbd87\transformed\emoji2-1.3.0\res
+com.hallisanthe.app-navigation-ui-ktx-2.7.7-6 C:\Users\User\.gradle\caches\8.9\transforms\20c5f3fe8d0a5608c920cd72ab9d62fc\transformed\navigation-ui-ktx-2.7.7\res
+com.hallisanthe.app-navigation-common-ktx-2.7.7-7 C:\Users\User\.gradle\caches\8.9\transforms\2924658f653338910b69cd224bbf848c\transformed\navigation-common-ktx-2.7.7\res
+com.hallisanthe.app-transition-1.5.0-8 C:\Users\User\.gradle\caches\8.9\transforms\2a1eed999765c957227a9947581194d8\transformed\transition-1.5.0\res
+com.hallisanthe.app-appcompat-resources-1.7.0-9 C:\Users\User\.gradle\caches\8.9\transforms\314d278ade898ab9c39cf1854d97e27c\transformed\appcompat-resources-1.7.0\res
+com.hallisanthe.app-savedstate-1.2.1-10 C:\Users\User\.gradle\caches\8.9\transforms\32b0d1595e842caecd236bf373b1684d\transformed\savedstate-1.2.1\res
+com.hallisanthe.app-drawerlayout-1.1.1-11 C:\Users\User\.gradle\caches\8.9\transforms\33911e9d93ab5350f804269739d25636\transformed\drawerlayout-1.1.1\res
+com.hallisanthe.app-lifecycle-viewmodel-ktx-2.8.4-12 C:\Users\User\.gradle\caches\8.9\transforms\3d47cfa2fbbbe9081d3b975a7c431e8e\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.hallisanthe.app-startup-runtime-1.1.1-13 C:\Users\User\.gradle\caches\8.9\transforms\4ba544fdf95d9dc29bd9c80f0e04b2a2\transformed\startup-runtime-1.1.1\res
+com.hallisanthe.app-play-services-base-18.5.0-14 C:\Users\User\.gradle\caches\8.9\transforms\4f738309aa5ed562314b06f9a71fdad2\transformed\play-services-base-18.5.0\res
+com.hallisanthe.app-emoji2-views-helper-1.3.0-15 C:\Users\User\.gradle\caches\8.9\transforms\5530db4cbb99ebb9a7cf0458d3fe3960\transformed\emoji2-views-helper-1.3.0\res
+com.hallisanthe.app-coordinatorlayout-1.1.0-16 C:\Users\User\.gradle\caches\8.9\transforms\584d9ee394941a16c5600af2af685432\transformed\coordinatorlayout-1.1.0\res
+com.hallisanthe.app-activity-ktx-1.9.1-17 C:\Users\User\.gradle\caches\8.9\transforms\5c3c737b4f426598163c08ed8a2eab9a\transformed\activity-ktx-1.9.1\res
+com.hallisanthe.app-datastore-1.0.0-18 C:\Users\User\.gradle\caches\8.9\transforms\5e06bf240ce66ea13cea37828505522b\transformed\datastore-1.0.0\res
+com.hallisanthe.app-activity-1.9.1-19 C:\Users\User\.gradle\caches\8.9\transforms\619331aea963c3f8e9e1c6aeaa433e0a\transformed\activity-1.9.1\res
+com.hallisanthe.app-core-ktx-1.13.1-20 C:\Users\User\.gradle\caches\8.9\transforms\62a728e1c0171a9a40bbcd67d8a1f4b2\transformed\core-ktx-1.13.1\res
+com.hallisanthe.app-glide-4.16.0-21 C:\Users\User\.gradle\caches\8.9\transforms\62b1a046c1b67d30108a37c50e1617bb\transformed\glide-4.16.0\res
+com.hallisanthe.app-room-ktx-2.6.1-22 C:\Users\User\.gradle\caches\8.9\transforms\63d59891e7610d269151a135709bddeb\transformed\room-ktx-2.6.1\res
+com.hallisanthe.app-lifecycle-runtime-ktx-release-23 C:\Users\User\.gradle\caches\8.9\transforms\65c643ddaa7d5b339df41af2edfad5ca\transformed\lifecycle-runtime-ktx-release\res
+com.hallisanthe.app-lifecycle-livedata-core-ktx-2.8.4-24 C:\Users\User\.gradle\caches\8.9\transforms\68c49488778efe2759f3513555943ea5\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.hallisanthe.app-fragment-1.8.2-25 C:\Users\User\.gradle\caches\8.9\transforms\6bf8f54d3d7e43211d3e2c89b1522e60\transformed\fragment-1.8.2\res
+com.hallisanthe.app-lifecycle-livedata-core-2.8.4-26 C:\Users\User\.gradle\caches\8.9\transforms\701fc914508d2cc84155fac1be316462\transformed\lifecycle-livedata-core-2.8.4\res
+com.hallisanthe.app-lifecycle-viewmodel-savedstate-2.8.4-27 C:\Users\User\.gradle\caches\8.9\transforms\7192c94c648f92ef082eea363837459b\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.hallisanthe.app-annotation-experimental-1.4.0-28 C:\Users\User\.gradle\caches\8.9\transforms\7976832bf305c430d19f6d24f4f7204d\transformed\annotation-experimental-1.4.0\res
+com.hallisanthe.app-lifecycle-process-2.8.4-29 C:\Users\User\.gradle\caches\8.9\transforms\7a7c9f9a4abfa6f8f86b2bba3eb185b4\transformed\lifecycle-process-2.8.4\res
+com.hallisanthe.app-play-services-auth-21.3.0-30 C:\Users\User\.gradle\caches\8.9\transforms\827d5285c5e2911a46181f078cf53134\transformed\play-services-auth-21.3.0\res
+com.hallisanthe.app-customview-poolingcontainer-1.0.0-31 C:\Users\User\.gradle\caches\8.9\transforms\8899ff5f65bc06dd42fab0c6f331ff95\transformed\customview-poolingcontainer-1.0.0\res
+com.hallisanthe.app-credentials-play-services-auth-1.2.0-rc01-32 C:\Users\User\.gradle\caches\8.9\transforms\91e2418a595753d27a61ac44e41efb9e\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.hallisanthe.app-lifecycle-runtime-release-33 C:\Users\User\.gradle\caches\8.9\transforms\9338fea57cc606f6ddbfa84a5f799f3e\transformed\lifecycle-runtime-release\res
+com.hallisanthe.app-window-1.0.0-34 C:\Users\User\.gradle\caches\8.9\transforms\96cc42789c0189a50316f36df7bad7cb\transformed\window-1.0.0\res
+com.hallisanthe.app-navigation-fragment-ktx-2.7.7-35 C:\Users\User\.gradle\caches\8.9\transforms\9a79535cc862b3d6bc224f34540aee3a\transformed\navigation-fragment-ktx-2.7.7\res
+com.hallisanthe.app-navigation-ui-2.7.7-36 C:\Users\User\.gradle\caches\8.9\transforms\9fc36228458c1e014e04eb87ec508bb4\transformed\navigation-ui-2.7.7\res
+com.hallisanthe.app-navigation-runtime-ktx-2.7.7-37 C:\Users\User\.gradle\caches\8.9\transforms\a9fa2b70ac831c7f02041f47ac3200ce\transformed\navigation-runtime-ktx-2.7.7\res
+com.hallisanthe.app-credentials-1.2.0-rc01-38 C:\Users\User\.gradle\caches\8.9\transforms\acbc3352c0ded03c4a9c5e633ee78f61\transformed\credentials-1.2.0-rc01\res
+com.hallisanthe.app-play-services-basement-18.4.0-39 C:\Users\User\.gradle\caches\8.9\transforms\b6191ab70ac92dd607df238534ba7365\transformed\play-services-basement-18.4.0\res
+com.hallisanthe.app-cardview-1.0.0-40 C:\Users\User\.gradle\caches\8.9\transforms\ba2f84a7dadaeff7b3a10cde10569376\transformed\cardview-1.0.0\res
+com.hallisanthe.app-navigation-fragment-2.7.7-41 C:\Users\User\.gradle\caches\8.9\transforms\ba6bea5104122cb693cc4391e27c41e9\transformed\navigation-fragment-2.7.7\res
+com.hallisanthe.app-firebase-crashlytics-19.0.3-42 C:\Users\User\.gradle\caches\8.9\transforms\bb2da1ebe12a68c603a51602d2ee9d20\transformed\firebase-crashlytics-19.0.3\res
+com.hallisanthe.app-room-runtime-2.6.1-43 C:\Users\User\.gradle\caches\8.9\transforms\bedaf81ac13150e8d9d83580b49e7d12\transformed\room-runtime-2.6.1\res
+com.hallisanthe.app-sqlite-2.4.0-44 C:\Users\User\.gradle\caches\8.9\transforms\bf24a5591e86f365ec5208f3b9db30e2\transformed\sqlite-2.4.0\res
+com.hallisanthe.app-slidingpanelayout-1.2.0-45 C:\Users\User\.gradle\caches\8.9\transforms\c1df500032d0af1dc7f55b1c302b7df4\transformed\slidingpanelayout-1.2.0\res
+com.hallisanthe.app-recyclerview-1.3.2-46 C:\Users\User\.gradle\caches\8.9\transforms\c44632384ef27d1fe6ac08b4b13bc6ba\transformed\recyclerview-1.3.2\res
+com.hallisanthe.app-core-1.13.1-47 C:\Users\User\.gradle\caches\8.9\transforms\d2daedeea1a7f6a792ff5c8c405dde24\transformed\core-1.13.1\res
+com.hallisanthe.app-viewpager2-1.1.0-beta02-48 C:\Users\User\.gradle\caches\8.9\transforms\d4a7d28891ad5f59e8352c98632b0ecb\transformed\viewpager2-1.1.0-beta02\res
+com.hallisanthe.app-datastore-preferences-1.0.0-49 C:\Users\User\.gradle\caches\8.9\transforms\d5f7be364667775e23e882c0d3abfc7c\transformed\datastore-preferences-1.0.0\res
+com.hallisanthe.app-savedstate-ktx-1.2.1-50 C:\Users\User\.gradle\caches\8.9\transforms\d600f10835810e9039673610adc4830e\transformed\savedstate-ktx-1.2.1\res
+com.hallisanthe.app-lifecycle-livedata-2.8.4-51 C:\Users\User\.gradle\caches\8.9\transforms\d8fc07ddab00c7719b5594154409939f\transformed\lifecycle-livedata-2.8.4\res
+com.hallisanthe.app-firebase-common-21.0.0-52 C:\Users\User\.gradle\caches\8.9\transforms\d93d2ffc19c7a373dc98e27bef063854\transformed\firebase-common-21.0.0\res
+com.hallisanthe.app-lifecycle-viewmodel-release-53 C:\Users\User\.gradle\caches\8.9\transforms\da3f4269dcab5ec71a5fc3b73c1a8c2c\transformed\lifecycle-viewmodel-release\res
+com.hallisanthe.app-fragment-ktx-1.8.2-54 C:\Users\User\.gradle\caches\8.9\transforms\daf7685ab6d300ca3c5f1dd44d5e48a3\transformed\fragment-ktx-1.8.2\res
+com.hallisanthe.app-profileinstaller-1.3.1-55 C:\Users\User\.gradle\caches\8.9\transforms\dd8db44ce8cf61cb5d8f586651bd007c\transformed\profileinstaller-1.3.1\res
+com.hallisanthe.app-constraintlayout-2.1.4-56 C:\Users\User\.gradle\caches\8.9\transforms\e6532abf09f0b8d125d513e494637aed\transformed\constraintlayout-2.1.4\res
+com.hallisanthe.app-appcompat-1.7.0-57 C:\Users\User\.gradle\caches\8.9\transforms\ed12e24cd2750e0fb02bc2e698f8a2c3\transformed\appcompat-1.7.0\res
+com.hallisanthe.app-sqlite-framework-2.4.0-58 C:\Users\User\.gradle\caches\8.9\transforms\edf5306ed7015e50d78289ebfb423273\transformed\sqlite-framework-2.4.0\res
+com.hallisanthe.app-navigation-runtime-2.7.7-59 C:\Users\User\.gradle\caches\8.9\transforms\fcef97286e77b8fd39a9a68112080e2b\transformed\navigation-runtime-2.7.7\res
+com.hallisanthe.app-res-60 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\generated\res\injectCrashlyticsMappingFileIdDebug
+com.hallisanthe.app-res-61 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\generated\res\injectCrashlyticsVersionControlInfoDebug
+com.hallisanthe.app-pngs-62 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\generated\res\pngs\debug
+com.hallisanthe.app-res-63 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\generated\res\processDebugGoogleServices
+com.hallisanthe.app-resValues-64 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\generated\res\resValues\debug
+com.hallisanthe.app-packageDebugResources-65 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hallisanthe.app-packageDebugResources-66 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hallisanthe.app-debug-67 C:\Users\User\OneDrive\Desktop\halli santhe\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.hallisanthe.app-debug-68 C:\Users\User\OneDrive\Desktop\halli santhe\app\src\debug\res
+com.hallisanthe.app-main-69 C:\Users\User\OneDrive\Desktop\halli santhe\app\src\main\res

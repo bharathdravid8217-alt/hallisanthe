@@ -1,0 +1,14 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_cream"
+    android:fitsSystemWindows="true">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="24dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Complete Profile" android:textColor="@color/text_brown" android:textSize="24sp" android:textStyle="bold" />
+        <EditText android:id="@+id/nameInput" android:layout_width="match_parent" android:layout_height="56dp" android:layout_marginTop="20dp" android:hint="Full name" />
+        <EditText android:id="@+id/locationInput" android:layout_width="match_parent" android:layout_height="56dp" android:layout_marginTop="12dp" android:hint="Village / City" />
+        <EditText android:id="@+id/whatsappInput" android:layout_width="match_parent" android:layout_height="56dp" android:layout_marginTop="12dp" android:hint="WhatsApp number" android:inputType="phone" />
+        <EditText android:id="@+id/bioInput" android:layout_width="match_parent" android:layout_height="120dp" android:layout_marginTop="12dp" android:gravity="top" android:hint="Bio" />
+        <Button android:id="@+id/saveProfileButton" android:layout_width="match_parent" android:layout_height="56dp" android:layout_marginTop="24dp" android:backgroundTint="@color/primary_orange" android:text="Save and Continue" android:textColor="@color/white" />
+    </LinearLayout>
+</ScrollView>

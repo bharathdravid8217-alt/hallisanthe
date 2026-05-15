@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.HalliSanthe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryVariant">@color/primary_orange_dark</item>
+        <item name="colorSecondary">@color/secondary_yellow</item>
+        <item name="android:colorBackground">@color/background_cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/background_cream</item>
+    </style>
+</resources>

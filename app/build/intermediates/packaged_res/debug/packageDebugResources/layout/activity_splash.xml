@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_orange_gradient"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        android:background="@drawable/bg_logo_circle"
+        android:padding="20dp"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:src="@drawable/ic_launcher_market" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Halli-Santhe"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Your Village Market, Now Digital"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+
+    <ProgressBar
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="56dp"
+        android:indeterminateTint="@color/white" />
+</LinearLayout>
