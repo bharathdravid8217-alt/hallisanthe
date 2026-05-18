@@ -1,0 +1,7 @@
+# Mark all Java files as generated so they don't count towards language statistics
+# (since this is a Kotlin-only project and any Java files are likely generated)
+*.java linguist-generated=true
+
+# Mark build and generated directories
+**/build/** linguist-generated=true
+**/generated/** linguist-generated=true
